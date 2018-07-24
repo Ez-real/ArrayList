@@ -23,7 +23,7 @@ namespace _01反序列输出
             for (int i = 0; i < str.Length; i++)
             {
                 Console.Write(str[i]);
-
+                Console.WriteLine("hello");
             }
             Console.ReadKey();          
         }
